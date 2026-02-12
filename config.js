@@ -51,7 +51,7 @@ const CONFIG = {
     celebration: {
         title: "Yay! I'm the luckiest Ongo in the world! 🎉💝💖💝💓",
         message: "I love you my gorgeous bebe, can't wait to be with you!",
-        emojis: "🎁💖🤗💝💋❤️💕"  // These will bounce around
+        emojis: "😻💖🤗💝💋❤️"  // These will bounce around
     },
 
     // Color scheme for the website
